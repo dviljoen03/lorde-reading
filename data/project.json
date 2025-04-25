@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "dviljoen03",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200987508?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "dviljoen03",
     "is_private": false,
@@ -22,6 +28,7 @@
       "tags": []
     },
     "created_at": "2025-03-31T15:52:21.646Z",
-    "updated_at": "2025-03-31T15:52:21.646Z"
+    "updated_at": "2025-03-31T15:52:21.646Z",
+    "generate_pages_site": true
   }
 }
